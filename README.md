@@ -1,9 +1,7 @@
 ## Hi there 👋
-<!--
-- 🔭 I’m PHD. Scholar
-- 🌱 I’m currently working my research on Hydrology and water Resources.
-- 👯 I’m looking to collaboration
-- 🤔 I’m looking for funding
-- 💬 Ask me about GIS
 
--->
+- 🔭 I am a PhD Scholar.
+- 🌱 Currently researching Hydrology and Water Resources.
+- 👯 Open to collaboration opportunities.
+- 🤔 Seeking research funding.
+- 💬 Feel free to ask me about GIS.
